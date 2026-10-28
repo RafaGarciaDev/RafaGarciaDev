@@ -4,6 +4,11 @@ Todas as mudanças relevantes deste projeto. Formato: [Keep a Changelog](https:/
 
 Espelho no código: bloco de comentário no topo do `README.md` (invisível no perfil).
 
+## [0.2.1] — 2026-10-28
+
+### Alterado
+- Tabela de IA & ML fica só com "Trilha" e "O que cobre": removidas as colunas "Projeto aplicado" e "Status" (datas), que confundiam a leitura do perfil.
+
 ## [0.2.0] — 2026-10-28
 
 ### Adicionado

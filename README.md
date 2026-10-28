@@ -1,5 +1,8 @@
 <!--
-  Versão: 0.2.0 — espelho do CHANGELOG.md (mais recente no topo). Atualizar junto.
+  Versão: 0.2.1 — espelho do CHANGELOG.md (mais recente no topo). Atualizar junto.
+  [0.2.1] — 2026-10-28
+    Alterado: tabela de IA & ML fica só com "Trilha" e "O que cobre" — removidas as colunas
+    "Projeto aplicado" e "Status" (datas), que confundiam a leitura do perfil.
   [0.2.0] — 2026-10-28
     Adicionado: seção "IA & Machine Learning" com ícones (scikit-learn, PyTorch, Hugging Face, LangChain etc.)
     e trilha em 4 etapas (ML clássico, ML avançado, deep learning/NLP, LLMs) com status e link pro portfolio-dados-ml.
@@ -62,12 +65,12 @@
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
 
-| Trilha | O que cobre | Projeto aplicado | Status |
-|---|---|---|---|
-| 🌳 **ML clássico** | Regressão, classificação, árvores, Random Forest, XGBoost (scikit-learn) | Previsão de rotatividade de funcionários (churn de RH) | 📅 Nov/2026 – Fev/2027 |
-| 📈 **ML avançado** | Validação cruzada, precisão/recall/AUC, ajuste de hiperparâmetros, clustering, séries temporais | Previsão de demanda de chamados de suporte | 📅 Nov/2026 – Fev/2027 |
-| 🧠 **Deep learning & NLP** | Redes neurais (PyTorch), embeddings, transformers | Classificador automático de chamados por texto | 🔜 Próxima fase |
-| 💬 **LLMs & IA generativa** | APIs de LLM, RAG, agentes, avaliação | Assistente que responde sobre documentos internos (RAG) | 🔜 Próxima fase |
+| Trilha | O que cobre |
+|---|---|
+| 🌳 **ML clássico** | Regressão, classificação, árvores, Random Forest, XGBoost (scikit-learn) |
+| 📈 **ML avançado** | Validação cruzada, precisão/recall/AUC, ajuste de hiperparâmetros, clustering, séries temporais |
+| 🧠 **Deep learning & NLP** | Redes neurais (PyTorch), embeddings, transformers |
+| 💬 **LLMs & IA generativa** | APIs de LLM, RAG, agentes, avaliação |
 
 <p align="center">
   <a href="https://github.com/RafaGarciaDev/portfolio-dados-ml"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaGarciaDev&repo=portfolio-dados-ml&theme=tokyonight&hide_border=true" /></a>
