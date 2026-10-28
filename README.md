@@ -1,5 +1,9 @@
 <!--
-  Versão: 0.1.0 — espelho do CHANGELOG.md (mais recente no topo). Atualizar junto.
+  Versão: 0.2.0 — espelho do CHANGELOG.md (mais recente no topo). Atualizar junto.
+  [0.2.0] — 2026-10-28
+    Adicionado: seção "IA & Machine Learning" com ícones (scikit-learn, PyTorch, Hugging Face, LangChain etc.)
+    e trilha em 4 etapas (ML clássico, ML avançado, deep learning/NLP, LLMs) com status e link pro portfolio-dados-ml.
+    Alterado: texto digitando e "Sobre mim" passam a citar Machine Learning e IA generativa.
   [0.1.0] — 2026-10-28
     Adicionado: README de perfil com banner animado, texto digitando, tecnologias,
     6 projetos em destaque, estatísticas, sequência de contribuições e cobrinha.
@@ -10,7 +14,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rafael%20Garcia&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Dados%20%E2%80%A2%20Back-End%20Java%20%E2%80%A2%20Observabilidade&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Analista+de+Dados+%26+Dev+Back-End+Java;Pipelines+ETL+%E2%80%A2+SAP+%E2%80%A2+TOTVS+Protheus;Airflow+%E2%80%A2+Kafka+%E2%80%A2+dbt+%E2%80%A2+PostgreSQL;Grafana+%E2%80%A2+Prometheus+%E2%80%A2+Zabbix;Transformando+dados+em+insights+acion%C3%A1veis" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Analista+de+Dados+%26+Dev+Back-End+Java;Machine+Learning+%E2%80%A2+IA+Generativa+%E2%80%A2+RAG;Pipelines+ETL+%E2%80%A2+SAP+%E2%80%A2+TOTVS+Protheus;Airflow+%E2%80%A2+Kafka+%E2%80%A2+dbt+%E2%80%A2+PostgreSQL;Grafana+%E2%80%A2+Prometheus+%E2%80%A2+Zabbix;Transformando+dados+em+insights+acion%C3%A1veis" />
 </p>
 
 <p align="center">
@@ -20,6 +24,7 @@
 ## 👨‍💻 Sobre mim
 
 - 📊 **Analista de Dados** e **Desenvolvedor Back-End Java**
+- 🤖 Evoluindo em **Machine Learning e IA generativa**: do scikit-learn a LLMs com RAG
 - 🏭 Integração e migração de dados **SAP ↔ TOTVS Protheus** (RFC/BAPI, REST, OAuth2)
 - 🔄 Pipelines ETL com **Airflow, Kafka, dbt** e **PostgreSQL**
 - 📡 Monitoramento e observabilidade com **Grafana, Prometheus, Loki e Zabbix**
@@ -39,6 +44,33 @@
   <img src="https://img.shields.io/badge/TOTVS%20Protheus-1E3A8A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Control--M-0B5394?style=for-the-badge" />
+</p>
+
+## 🤖 IA & Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+</p>
+
+| Trilha | O que cobre | Projeto aplicado | Status |
+|---|---|---|---|
+| 🌳 **ML clássico** | Regressão, classificação, árvores, Random Forest, XGBoost (scikit-learn) | Previsão de rotatividade de funcionários (churn de RH) | 📅 Nov/2026 – Fev/2027 |
+| 📈 **ML avançado** | Validação cruzada, precisão/recall/AUC, ajuste de hiperparâmetros, clustering, séries temporais | Previsão de demanda de chamados de suporte | 📅 Nov/2026 – Fev/2027 |
+| 🧠 **Deep learning & NLP** | Redes neurais (PyTorch), embeddings, transformers | Classificador automático de chamados por texto | 🔜 Próxima fase |
+| 💬 **LLMs & IA generativa** | APIs de LLM, RAG, agentes, avaliação | Assistente que responde sobre documentos internos (RAG) | 🔜 Próxima fase |
+
+<p align="center">
+  <a href="https://github.com/RafaGarciaDev/portfolio-dados-ml"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaGarciaDev&repo=portfolio-dados-ml&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ## 🚀 Projetos em destaque

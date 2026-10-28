@@ -4,6 +4,14 @@ Todas as mudanças relevantes deste projeto. Formato: [Keep a Changelog](https:/
 
 Espelho no código: bloco de comentário no topo do `README.md` (invisível no perfil).
 
+## [0.2.0] — 2026-10-28
+
+### Adicionado
+- Seção "IA & Machine Learning" com ícones (scikit-learn, PyTorch, TensorFlow, pandas, Hugging Face, LangChain, Claude etc.) e trilha em 4 etapas (ML clássico, ML avançado, deep learning/NLP, LLMs), cada uma com o projeto aplicado e o status, mais o cartão do repositório `portfolio-dados-ml`.
+
+### Alterado
+- Texto digitando e "Sobre mim" passam a citar Machine Learning e IA generativa.
+
 ## [0.1.0] — 2026-10-28
 
 ### Adicionado
