@@ -4,6 +4,13 @@ Todas as mudanças relevantes deste projeto. Formato: [Keep a Changelog](https:/
 
 Espelho no código: bloco de comentário no topo do `README.md` (invisível no perfil).
 
+## [0.3.0] — 2026-10-28
+
+### Adicionado
+- Pasta `social-preview/` com as capas 1280×640 dos 6 projetos em destaque, no mesmo degradê e cores do perfil, e o gerador `gerar_capas.py` (Pillow) para refazer quando precisar: `python social-preview/gerar_capas.py social-preview`.
+
+**Ação necessária:** enviar cada imagem em Settings → Social preview do repositório correspondente (o GitHub não aceita esse upload por API).
+
 ## [0.2.1] — 2026-10-28
 
 ### Alterado

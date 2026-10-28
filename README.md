@@ -1,5 +1,8 @@
 <!--
-  Versão: 0.2.1 — espelho do CHANGELOG.md (mais recente no topo). Atualizar junto.
+  Versão: 0.3.0 — espelho do CHANGELOG.md (mais recente no topo). Atualizar junto.
+  [0.3.0] — 2026-10-28
+    Adicionado: social-preview/ com as capas 1280x640 dos 6 projetos em destaque (estilo do perfil)
+    e o gerador gerar_capas.py (Pillow). Upload manual em Settings → Social preview de cada repo.
   [0.2.1] — 2026-10-28
     Alterado: tabela de IA & ML fica só com "Trilha" e "O que cobre" — removidas as colunas
     "Projeto aplicado" e "Status" (datas), que confundiam a leitura do perfil.
